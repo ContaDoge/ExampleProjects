@@ -25,6 +25,10 @@ float nrand(float x, float y)
 
 All the calculations are done in the fragment shader.
 
+The code if fully commented, with specific attention to the custom code snippets.
+
+![Visual](Images/code.PNG)
+
 ## Running the code
 
 1. Clone the repository or download it
