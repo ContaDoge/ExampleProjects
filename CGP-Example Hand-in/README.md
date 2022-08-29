@@ -1,5 +1,8 @@
 # CGP Example Mini-project
 
+![Visual](Images/ExampleMiniProject.gif)
+
+
 The mini project presents a number of simple analog distortions that can be applied to either mesh textures or directly to a Render texture for camera feed distortion. The code is based on the work by Keijiro Takahashi [Github Link](https://github.com/Yiiip/KinoGlitch). Overall four distortions are developed - vertical per pixel jitter, vertical jump distortion, horizontal shake distortion and chromatic aberation distortion. 
 
 The shader contains a number of properties that can be manually tweaked or manipulated through C# code:
