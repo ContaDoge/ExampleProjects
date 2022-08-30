@@ -1,5 +1,7 @@
 # Pi3D Example Mini-project
 
+![Visual](Images/01_ExampleGame_Rato-Cato.gif)
+
 ## Overview of the Game
 The idea of the project is a collection arena game in the vein of PACMAN or Snake. The player guides a rat in a closed off arena freely in a 2D plane using keyboard controls, while being able to rotate and zoom the camera around to see the field. The goal of the game is to maximize the score by gathering food, while escaping from cats trying to catch the player. The game becomes progressively harder with time by increasing the number of cats and their speed. Genre of the game is a reflex-based arcade game.
 
