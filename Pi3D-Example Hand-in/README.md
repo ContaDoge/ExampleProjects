@@ -16,6 +16,11 @@ Game features:
 - The difficulty of the game changes with time, making it harder
 - The game keeps track of a score
 
+## Running It
+1. Download Unity >= 2021.2.14f
+2. Clone or Download the project 
+3. The game requires a computer with a mouse and keyboard
+
 ## Project Parts
 
 ### Scripts
