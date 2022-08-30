@@ -55,7 +55,7 @@ Game features:
 |     Playtesting   and bugfixing fringe cases in rigidbody incorrect physics    |     1.5                            |
 |     Code   documentation                                                       |     1                              |
 |     Making readme                                                              |     0.5                            |
-|     All                                                                        |     15.5                           |
+|     **All**                                                                        |     **15.5**                           |
 
 ## References
 - [How to make RTS Camera Movement in Unity](https://www.youtube.com/watch?v=cfjLQrMGEb4&t=1s&ab_channel=Brackeys)
