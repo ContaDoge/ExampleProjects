@@ -31,7 +31,7 @@ Game features:
 - A model of the cheese downloaded from [sketchfab](https://sketchfab.com/3d-models/cheese-78642517ca7e43b495e73509810fbbe1)
 - Rat and cat models made with Unity primitives
 
-| **    Task   **                                                                | **    Time it Took (in hours)   ** |
+| **Task**                                                                | **Time it Took (in hours)** |
 |--------------------------------------------------------------------------------|------------------------------------|
 |     Setting up   Unity, making a project in GitHub                             |     0.5                            |
 |     Research and   conceptualization of game idea                              |     1                              |
@@ -51,10 +51,10 @@ Game features:
 |     All                                                                        |     15.5                           |
 
 ## References
-•	[How to make RTS Camera Movement in Unity](https://www.youtube.com/watch?v=cfjLQrMGEb4&t=1s&ab_channel=Brackeys)
-•	[Game Architecture Tips – Unity Timer](https://www.youtube.com/watch?v=pRjTM3pzqDw&ab_channel=DapperDino)
-•	[Spawning objects in only a certain area](https://forum.unity.com/threads/spawning-objects-in-only-a-certain-area.611167/) 
-•	[Moving character relative to camera](https://forum.unity.com/threads/moving-character-relative-to-camera.383086/)
+- [How to make RTS Camera Movement in Unity](https://www.youtube.com/watch?v=cfjLQrMGEb4&t=1s&ab_channel=Brackeys)
+- [Game Architecture Tips – Unity Timer](https://www.youtube.com/watch?v=pRjTM3pzqDw&ab_channel=DapperDino)
+- [Spawning objects in only a certain area](https://forum.unity.com/threads/spawning-objects-in-only-a-certain-area.611167/) 
+- [Moving character relative to camera](https://forum.unity.com/threads/moving-character-relative-to-camera.383086/)
 
 
 
